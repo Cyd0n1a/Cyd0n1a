@@ -9,7 +9,7 @@ I'm @Cyd0n1a, Computational Astrophysicist, Lead Developer, Engineer, and Direct
 
 🔭 I’m currently working on: [||REDACTED!||](https://www.youtube.com/watch?v=9PSEZCPR35Q). ***Something very special!*** [Contact me](https://twitter.com/Amolain) to request (consideration for) repo access, and/or [see my website for details](https://cydonis-heavy-industries-c-h-i-ltd.github.io/), [and keep a close eye/subscribe on my YT channel for any updates.](https://www.youtube.com/@CydoniaPhysGeekGirl/videos).<br>
 
-**#-------EOL. :octocat: MCP|#|root|msg|:See you in the game grid, Flynn. :godmode: ------#**<br><br>
+**#-------EOL. :octocat: MCP|#|root|msg|:See [you in the game grid](https://www.youtube.com/watch?v=jyqS4IS7h8Y), Flynn. :godmode: ------#**<br><br>
 ![Soma-Somnis](https://raw.githubusercontent.com/Cydonis-Heavy-Industries-C-H-I-Ltd/Cydonis-Heavy-Industries-C-H-I-Ltd.github.io/main/soma-somnis.jpg)
 <!--
 **Cyd0n1a/Cyd0n1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
