@@ -7,7 +7,7 @@ I'm @Cyd0n1a, Computational Astrophysicist, Lead Developer, Engineer, and Direct
 
 💬 Ask me about: Physics and condensed matter Research and Development (R&D)! Black holes, galaxies, stellar evolution etcetera... 😎👾🌃🚀🌌🛰️☄🌟✨<br>
 
-🔭 I’m currently working on: ||REDACTED!||. Something very special! [Contact me](https://twitter.com/Amolain) to request (consideration for) repo access, and/or [see my website for details](https://cydonis-heavy-industries-c-h-i-ltd.github.io/), [and keep a close eye/subscribe on my YT channel for any updates.](https://www.youtube.com/@CydoniaPhysGeekGirl/videos).<br>
+🔭 I’m currently working on: [||REDACTED!||](https://www.youtube.com/watch?v=9PSEZCPR35Q). ***Something very special!*** [Contact me](https://twitter.com/Amolain) to request (consideration for) repo access, and/or [see my website for details](https://cydonis-heavy-industries-c-h-i-ltd.github.io/), [and keep a close eye/subscribe on my YT channel for any updates.](https://www.youtube.com/@CydoniaPhysGeekGirl/videos).<br>
 
 **#-------EOL. :octocat: MCP|#|root|msg|:See you in the game grid, Flynn. :godmode: ------#**<br><br>
 ![Soma-Somnis](https://raw.githubusercontent.com/Cydonis-Heavy-Industries-C-H-I-Ltd/Cydonis-Heavy-Industries-C-H-I-Ltd.github.io/main/soma-somnis.jpg)
