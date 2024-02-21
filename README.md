@@ -8,7 +8,7 @@ I'm @Cyd0n1a, Computational Astrophysicist, Lead Developer, Engineer, and Direct
 
 🔭 I’m currently working on: ||REDACTED!||. Something very special! [Contact me](https://twitter.com/Amolain) to request (consideration for) repo access, and/or [see my website for details](https://cydonis-heavy-industries-c-h-i-ltd.github.io/), [and keep a close eye/subscribe on my YT channel for any updates.](https://www.youtube.com/@CydoniaPhysGeekGirl/videos).<br>
 
-**#-------EOL. MCP|#|root|:See you in the game grid, Flynn.------#**<br><br>
+**#-------EOL.:octocat: MCP|#|root|msg|:See you in the game grid, Flynn. :godmode:------#**<br><br>
 ![Logo](https://github.com/Cydonis-Heavy-Industries-C-H-I-Ltd/Cydonis-Heavy-Industries-C-H-I-Ltd.github.io/blob/main/chi-logo-only_transparent.png?raw=true)
 <!--
 **Cyd0n1a/Cyd0n1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
