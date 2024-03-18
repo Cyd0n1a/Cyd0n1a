@@ -1,6 +1,7 @@
 ### Hiya there! Greetings, program! 🤖👩🏻‍🎤👩🏻‍🚀🚀🤘🏻🚴🏻‍♀️👋<br>
 ![Logo](https://github.com/Cydonis-Heavy-Industries-C-H-I-Ltd/Cydonis-Heavy-Industries-C-H-I-Ltd.github.io/blob/main/chi-logo-only_transparent.png?raw=true) <br>
 I'm @Cyd0n1a, Computational Astrophysicist, Lead Developer, Engineer, and Director of (a startup) called Cydonis Heavy Industries (C.H.I) Ltd! 🧰🛰️⚛🧲👩🏻‍🔬🔭🌃🌍🚀👩‍🚀😎<br><br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6VT0TP)<br><br>
 #### We're Hiring!<br>
 **[Get in touch if you're an experienced c++ 🛠 embedded systems dev/engineer 🛠 looking for a new and interesting project! (subject to NDA agreement)](https://twitter.com/Amolain).** 🛠🕶️🎱🌆💻<br><br>
 😄🏳️‍⚧️🌈🏳️‍🌈 Pronouns: She/Her/They/Them. Trans* Rights are human rights, yesterday, today, tommorow, and forever.<br> RIP (Rest In Power) Alice & Brianna.<br> *...Everything I do is dedicated to honouring their memory... And their ongoing legacy...* 💔🏳️‍⚧️🌈🏳️‍🌈<br>
