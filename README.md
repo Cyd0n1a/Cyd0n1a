@@ -10,7 +10,10 @@ I'm @Cyd0n1a, Computational Astrophysicist, Lead Developer, Engineer, and Direct
 🔭 I’m currently working on: [||REDACTED!||]([[https://www.youtube.com/watch?v=9PSEZCPR35Q](https://www.cydonis.co.uk/blog/coming-soon-tm/)]([https://www.youtube.com/watch?v=Fti3NjDl_Is](https://www.youtube.com/watch?v=Fti3NjDl_Is))). ***Something very special!*** [Contact me]([https://www.cydonis.co.uk/forums/](https://www.cydonis.co.uk/forums/index.php?style=2)) to request (consideration for) repo access, and/or [see my website for details](https://cydonis-heavy-industries-c-h-i-ltd.github.io/), [and keep a close eye/subscribe on my YT channel for any updates.](https://www.youtube.com/@CydoniaPhysGeekGirl/videos).<br>
 
 **#-------EOL. :octocat: MCP|#|root|msg|:See [you in the game grid](https://www.youtube.com/watch?v=jyqS4IS7h8Y), Flynn. :godmode: ------#**<br><br>
-![Soma-Somnis](https://raw.githubusercontent.com/Cydonis-Heavy-Industries-C-H-I-Ltd/Cydonis-Heavy-Industries-C-H-I-Ltd.github.io/main/soma-somnis.jpg)
+![Soma-Somnis](https://raw.githubusercontent.com/Cydonis-Heavy-Industries-C-H-I-Ltd/Cydonis-Heavy-Industries-C-H-I-Ltd.github.io/main/soma-somnis.jpg)<br><br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyd0n1a&theme=dark&show_icons=true&hide_border=true&count_private=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyd0n1a&theme=dark&show_icons=true&hide_border=true&layout=compact) ![GitHub Stats](https://streak-stats.demolab.com?user=Cyd0n1a&theme=dark&hide_border=true)
+
 <!--
 **Cyd0n1a/Cyd0n1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
